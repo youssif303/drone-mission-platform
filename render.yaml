@@ -22,7 +22,6 @@ services:
     name: drone-platform-frontend
     runtime: static
     plan: free
-    region: frankfurt
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: dist
