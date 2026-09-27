@@ -12,7 +12,7 @@ services:
       - ./simulation:/app/simulation
     environment:
       - DEMO_MODE=true
-      - DATABASE_URL=sqlite+aiosqlite:///./recon_eye.db
+      - DATABASE_URL=sqlite+aiosqlite:///./drone_platform.db
     restart: unless-stopped
 
   frontend:

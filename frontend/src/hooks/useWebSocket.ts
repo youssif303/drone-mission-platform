@@ -25,7 +25,8 @@ export function useWebSocket<T>(urlPath: string, options: UseWebSocketOptions = 
     if (unmounted.current) return;
     
     const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
-    const wsHost = window.location.port === '3000'
+    const isDev = Boolean((import.meta as any).env?.DEV);
+    const wsHost = (isDev && window.location.port === '3000')
       ? `${window.location.hostname}:8000`
       : window.location.host;
     const url = `${protocol}//${wsHost}${urlPath}`;
