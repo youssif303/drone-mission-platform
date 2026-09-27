@@ -43,7 +43,11 @@ function getBearing(lat1: number, lon1: number, lat2: number, lon2: number): num
 
 export default function Dashboard() {
   const { detections, isConnected: isDetectConnected } = useDetections();
-  const { droneState: wsDroneState, isConnected: isTelemetryConnected } = useDroneTelemetry();
+  const {
+    droneState: wsDroneState,
+    isConnected: isTelemetryConnected,
+    hasTelemetry,
+  } = useDroneTelemetry();
   const { alerts: wsAlerts, isConnected: isAlertsConnected } = useAlerts();
 
   const { activeMission, selectedTrackId, actions } = useAppStore();
@@ -59,6 +63,8 @@ export default function Dashboard() {
     status: 'ACTIVE',
     timestamp: new Date().toISOString(),
   });
+  const useLiveTelemetry = isTelemetryConnected && hasTelemetry;
+  const displayedDroneState = useLiveTelemetry ? wsDroneState : droneState;
 
   const [tracks, setTracks] = useState<TrackedObject[]>([
     {
@@ -373,7 +379,7 @@ export default function Dashboard() {
         {/* Map: 60% with rotating drone aircraft & pinned targets */}
         <div className="w-full lg:w-3/5 h-full relative border-r border-gray-700 overflow-hidden">
           <GeoThreatMap
-            droneState={droneState}
+            droneState={displayedDroneState}
             detections={detections}
             tracks={tracks}
             mission={activeMission}
@@ -388,12 +394,12 @@ export default function Dashboard() {
             <VideoFeed
               detections={detections}
               tracks={tracks}
-              droneState={droneState}
+              droneState={displayedDroneState}
               selectedTrackId={selectedTrackId}
             />
           </div>
           <div className="h-20 shrink-0">
-            <DroneStatus droneState={droneState} />
+            <DroneStatus droneState={displayedDroneState} isLive={useLiveTelemetry} />
           </div>
         </div>
       </div>

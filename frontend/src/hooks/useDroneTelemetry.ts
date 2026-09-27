@@ -39,5 +39,7 @@ export function useDroneTelemetry() {
     }
   }, [data]);
 
-  return { droneState, isConnected };
+  const hasTelemetry = data !== null && typeof data === 'object';
+
+  return { droneState, isConnected, hasTelemetry };
 }

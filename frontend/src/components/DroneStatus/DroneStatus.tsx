@@ -1,16 +1,14 @@
 import React from 'react';
-import { useDroneTelemetry } from '../../hooks/useDroneTelemetry';
 import { Navigation, ArrowUpCircle, Battery, Wifi, WifiOff, MapPin, Compass } from 'lucide-react';
 import { clsx } from 'clsx';
 import { DroneState } from '../../types';
 
 export interface DroneStatusProps {
   droneState?: DroneState | null;
+  isLive?: boolean;
 }
 
-export const DroneStatus: React.FC<DroneStatusProps> = ({ droneState: propDroneState }) => {
-  const { droneState: hookDroneState, isConnected } = useDroneTelemetry();
-  const droneState = propDroneState || hookDroneState;
+export const DroneStatus: React.FC<DroneStatusProps> = ({ droneState, isLive = false }) => {
 
   const alt = droneState?.alt ?? 50.0;
   const speed = droneState?.speed ?? 14.5;
@@ -36,9 +34,9 @@ export const DroneStatus: React.FC<DroneStatusProps> = ({ droneState: propDroneS
           </span>
         </div>
         <div className="flex items-center gap-1.5 bg-black/50 px-2 py-0.5 rounded border border-gray-700 text-[10px]">
-          {isConnected ? <Wifi className="w-3 h-3 text-green-400" /> : <WifiOff className="w-3 h-3 text-amber-400" />}
-          <span className={isConnected ? "text-green-400 font-bold" : "text-amber-400 font-bold"}>
-            {isConnected ? 'LIVE FEED' : 'SIMULATED'}
+          {isLive ? <Wifi className="w-3 h-3 text-green-400" /> : <WifiOff className="w-3 h-3 text-amber-400" />}
+          <span className={isLive ? "text-green-400 font-bold" : "text-amber-400 font-bold"}>
+            {isLive ? 'LIVE FEED' : 'SIMULATED'}
           </span>
         </div>
       </div>
