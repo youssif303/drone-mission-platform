@@ -1,0 +1,7 @@
+{
+    "scenario_name": "highway_recon",
+    "num_frames": 200,
+    "center_lat": 48.2,
+    "center_lon": 11.6,
+    "num_objects": 5
+}

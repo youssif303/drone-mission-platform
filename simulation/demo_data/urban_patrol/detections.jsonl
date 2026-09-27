@@ -1,0 +1,300 @@
+{"frame": 0, "detections": []}
+{"frame": 1, "detections": []}
+{"frame": 2, "detections": []}
+{"frame": 3, "detections": []}
+{"frame": 4, "detections": []}
+{"frame": 5, "detections": []}
+{"frame": 6, "detections": []}
+{"frame": 7, "detections": []}
+{"frame": 8, "detections": []}
+{"frame": 9, "detections": []}
+{"frame": 10, "detections": []}
+{"frame": 11, "detections": []}
+{"frame": 12, "detections": []}
+{"frame": 13, "detections": []}
+{"frame": 14, "detections": []}
+{"frame": 15, "detections": []}
+{"frame": 16, "detections": []}
+{"frame": 17, "detections": []}
+{"frame": 18, "detections": []}
+{"frame": 19, "detections": []}
+{"frame": 20, "detections": []}
+{"frame": 21, "detections": []}
+{"frame": 22, "detections": []}
+{"frame": 23, "detections": []}
+{"frame": 24, "detections": []}
+{"frame": 25, "detections": []}
+{"frame": 26, "detections": []}
+{"frame": 27, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13431355442529, "longitude": 11.5815602294191, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8000191736494998, "timestamp": 2.7}]}
+{"frame": 28, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13431484174541, "longitude": 11.58156151673922, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8443206676616573, "timestamp": 2.8000000000000003}]}
+{"frame": 29, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134316129065525, "longitude": 11.581562804059338, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9205997916805346, "timestamp": 2.9000000000000004}]}
+{"frame": 30, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13431741638564, "longitude": 11.581564091379457, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7005964248549782, "timestamp": 3.0}]}
+{"frame": 31, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13431870370576, "longitude": 11.581565378699576, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7384507044950182, "timestamp": 3.1}]}
+{"frame": 32, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134319991025876, "longitude": 11.581566666019695, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7688008314877791, "timestamp": 3.2}]}
+{"frame": 33, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13432127834599, "longitude": 11.581567953339814, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7714782592835528, "timestamp": 3.3000000000000003}]}
+{"frame": 34, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13432256566611, "longitude": 11.581569240659933, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7662057225703257, "timestamp": 3.4000000000000004}]}
+{"frame": 35, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13432385298623, "longitude": 11.581570527980052, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7623455969883768, "timestamp": 3.5}]}
+{"frame": 36, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134325140306345, "longitude": 11.58157181530017, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8353292248864916, "timestamp": 3.6}]}
+{"frame": 37, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13432642762646, "longitude": 11.58157310262029, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9811843473143405, "timestamp": 3.7}]}
+{"frame": 38, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13432771494658, "longitude": 11.581574389940409, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7386913790915246, "timestamp": 3.8000000000000003}]}
+{"frame": 39, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134329002266696, "longitude": 11.581575677260528, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9783467081547971, "timestamp": 3.9000000000000004}]}
+{"frame": 40, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13433028958681, "longitude": 11.581576964580647, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.796360614387629, "timestamp": 4.0}]}
+{"frame": 41, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13433157690693, "longitude": 11.581578251900766, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9214492052523602, "timestamp": 4.1000000000000005}]}
+{"frame": 42, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13433286422705, "longitude": 11.581579539220884, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7914912152870878, "timestamp": 4.2}]}
+{"frame": 43, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13435642641913, "longitude": 11.581834987765717, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8016097721397258, "timestamp": 4.3}, {"track_id": 8, "class_name": "car", "latitude": 48.134334151547165, "longitude": 11.581580826541003, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7763934578871947, "timestamp": 4.3}]}
+{"frame": 44, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134360243157346, "longitude": 11.581838804503933, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8185073062800161, "timestamp": 4.4}, {"track_id": 8, "class_name": "car", "latitude": 48.13433543886728, "longitude": 11.581582113861122, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9804146321186944, "timestamp": 4.4}]}
+{"frame": 45, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13436405989556, "longitude": 11.58184262124215, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7445858049562551, "timestamp": 4.5}, {"track_id": 8, "class_name": "car", "latitude": 48.1343367261874, "longitude": 11.581583401181241, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9448199333701408, "timestamp": 4.5}]}
+{"frame": 46, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134367876633775, "longitude": 11.581846437980365, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9458544582590505, "timestamp": 4.6000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.13433801350752, "longitude": 11.58158468850136, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7188993536890737, "timestamp": 4.6000000000000005}]}
+{"frame": 47, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13437169337199, "longitude": 11.581850254718582, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8681316131866421, "timestamp": 4.7}, {"track_id": 8, "class_name": "car", "latitude": 48.134339300827634, "longitude": 11.58158597582148, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8526330776090723, "timestamp": 4.7}]}
+{"frame": 48, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.1343755101102, "longitude": 11.581854071456798, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7256079170516399, "timestamp": 4.800000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13434058814775, "longitude": 11.581587263141598, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8382816337997947, "timestamp": 4.800000000000001}]}
+{"frame": 49, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13437932684842, "longitude": 11.581857888195014, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9468547703499373, "timestamp": 4.9}, {"track_id": 8, "class_name": "car", "latitude": 48.13434187546787, "longitude": 11.581588550461717, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8657794749349501, "timestamp": 4.9}]}
+{"frame": 50, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13438314358663, "longitude": 11.58186170493323, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9273937944628167, "timestamp": 5.0}, {"track_id": 8, "class_name": "car", "latitude": 48.134343162787985, "longitude": 11.581589837781836, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8672021428359011, "timestamp": 5.0}]}
+{"frame": 51, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134386960324846, "longitude": 11.581865521671446, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.932233452006061, "timestamp": 5.1000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.1343444501081, "longitude": 11.581591125101955, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9073169357638602, "timestamp": 5.1000000000000005}]}
+{"frame": 52, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13439077706306, "longitude": 11.581869338409662, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9743832520046757, "timestamp": 5.2}, {"track_id": 8, "class_name": "car", "latitude": 48.13434573742822, "longitude": 11.581592412422074, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9316497911099024, "timestamp": 5.2}]}
+{"frame": 53, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134394593801275, "longitude": 11.581873155147878, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7743245094765447, "timestamp": 5.300000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13434702474834, "longitude": 11.581593699742193, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9029513605544431, "timestamp": 5.300000000000001}]}
+{"frame": 54, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13439841053949, "longitude": 11.581876971886095, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7598853484580498, "timestamp": 5.4}, {"track_id": 8, "class_name": "car", "latitude": 48.134348312068454, "longitude": 11.581594987062312, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9324606586609157, "timestamp": 5.4}]}
+{"frame": 55, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134402227277704, "longitude": 11.58188078862431, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7726821877006136, "timestamp": 5.5}, {"track_id": 8, "class_name": "car", "latitude": 48.13434959938857, "longitude": 11.58159627438243, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8234832964351274, "timestamp": 5.5}]}
+{"frame": 56, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13440604401592, "longitude": 11.581884605362527, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9019577954849586, "timestamp": 5.6000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.13435088670869, "longitude": 11.58159756170255, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.968981105915795, "timestamp": 5.6000000000000005}]}
+{"frame": 57, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13440986075413, "longitude": 11.581888422100743, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.701252266949424, "timestamp": 5.7}, {"track_id": 8, "class_name": "car", "latitude": 48.134352174028805, "longitude": 11.581598849022669, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7769608481685883, "timestamp": 5.7}]}
+{"frame": 58, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13441367749235, "longitude": 11.58189223883896, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9606065455184801, "timestamp": 5.800000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13435346134892, "longitude": 11.581600136342788, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8837397406488807, "timestamp": 5.800000000000001}]}
+{"frame": 59, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13441749423056, "longitude": 11.581896055577175, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7207105472869688, "timestamp": 5.9}, {"track_id": 8, "class_name": "car", "latitude": 48.13435474866904, "longitude": 11.581601423662907, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8683888195262209, "timestamp": 5.9}]}
+{"frame": 60, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134421310968776, "longitude": 11.581899872315391, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8620983568063598, "timestamp": 6.0}, {"track_id": 8, "class_name": "car", "latitude": 48.13435603598916, "longitude": 11.581602710983026, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9519980822460679, "timestamp": 6.0}]}
+{"frame": 61, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13442512770699, "longitude": 11.581903689053608, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9023968577923928, "timestamp": 6.1000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.134357323309274, "longitude": 11.581603998303144, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8374090141711926, "timestamp": 6.1000000000000005}]}
+{"frame": 62, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134428944445204, "longitude": 11.581907505791824, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.760911796733917, "timestamp": 6.2}, {"track_id": 8, "class_name": "car", "latitude": 48.13435861062939, "longitude": 11.581605285623263, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7964498718638298, "timestamp": 6.2}]}
+{"frame": 63, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13443276118342, "longitude": 11.58191132253004, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7342543582833584, "timestamp": 6.300000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13435989794951, "longitude": 11.581606572943382, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9512151653737175, "timestamp": 6.300000000000001}]}
+{"frame": 64, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13443657792163, "longitude": 11.581915139268256, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.764743612212665, "timestamp": 6.4}, {"track_id": 8, "class_name": "car", "latitude": 48.134361185269626, "longitude": 11.581607860263501, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7130962886898116, "timestamp": 6.4}]}
+{"frame": 65, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13444039465985, "longitude": 11.581918956006472, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.831703014061876, "timestamp": 6.5}, {"track_id": 8, "class_name": "car", "latitude": 48.13436247258974, "longitude": 11.58160914758362, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.81483155406599, "timestamp": 6.5}]}
+{"frame": 66, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13444421139806, "longitude": 11.581922772744688, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8244141061559358, "timestamp": 6.6000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.13436375990986, "longitude": 11.58161043490374, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.840403525839265, "timestamp": 6.6000000000000005}]}
+{"frame": 67, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134448028136276, "longitude": 11.581926589482904, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7258782185318795, "timestamp": 6.7}, {"track_id": 8, "class_name": "car", "latitude": 48.13436504722998, "longitude": 11.581611722223858, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7922542953170081, "timestamp": 6.7}]}
+{"frame": 68, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13445184487449, "longitude": 11.58193040622112, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8053086513319295, "timestamp": 6.800000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134366334550094, "longitude": 11.581613009543977, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7378345041340714, "timestamp": 6.800000000000001}]}
+{"frame": 69, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134455661612705, "longitude": 11.581934222959337, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8115182878360532, "timestamp": 6.9}, {"track_id": 8, "class_name": "car", "latitude": 48.13436762187021, "longitude": 11.581614296864096, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9271456181477641, "timestamp": 6.9}]}
+{"frame": 70, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13445947835092, "longitude": 11.581938039697553, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.704336895562249, "timestamp": 7.0}, {"track_id": 8, "class_name": "car", "latitude": 48.13436890919033, "longitude": 11.581615584184215, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.908491993210855, "timestamp": 7.0}]}
+{"frame": 71, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134463295089134, "longitude": 11.581941856435769, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7225893358308332, "timestamp": 7.1000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.134370196510446, "longitude": 11.581616871504334, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9437947388784647, "timestamp": 7.1000000000000005}]}
+{"frame": 72, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13446711182735, "longitude": 11.581945673173985, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7769253479449438, "timestamp": 7.2}, {"track_id": 8, "class_name": "car", "latitude": 48.13437148383056, "longitude": 11.581618158824453, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7093765883616089, "timestamp": 7.2}]}
+{"frame": 73, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13447092856556, "longitude": 11.581949489912201, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8053196839657001, "timestamp": 7.300000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13437277115068, "longitude": 11.581619446144572, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7871426102787681, "timestamp": 7.300000000000001}]}
+{"frame": 74, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13447474530378, "longitude": 11.581953306650417, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8924387598464049, "timestamp": 7.4}, {"track_id": 8, "class_name": "car", "latitude": 48.1343740584708, "longitude": 11.58162073346469, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.761106619153642, "timestamp": 7.4}]}
+{"frame": 75, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13447856204199, "longitude": 11.581957123388634, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7022115840867004, "timestamp": 7.5}, {"track_id": 8, "class_name": "car", "latitude": 48.134375345790914, "longitude": 11.58162202078481, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.895923741307208, "timestamp": 7.5}]}
+{"frame": 76, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134482378780206, "longitude": 11.58196094012685, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8291887627784567, "timestamp": 7.6000000000000005}, {"track_id": 8, "class_name": "car", "latitude": 48.13437663311103, "longitude": 11.581623308104929, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9870445489700193, "timestamp": 7.6000000000000005}]}
+{"frame": 77, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13448619551842, "longitude": 11.581964756865066, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8146991434255016, "timestamp": 7.7}, {"track_id": 8, "class_name": "car", "latitude": 48.13437792043115, "longitude": 11.581624595425048, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7606656567877068, "timestamp": 7.7}]}
+{"frame": 78, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134490012256634, "longitude": 11.581968573603282, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7621020856481187, "timestamp": 7.800000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134379207751266, "longitude": 11.581625882745167, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8910519528185978, "timestamp": 7.800000000000001}]}
+{"frame": 79, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13449382899485, "longitude": 11.581972390341498, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8516695220931865, "timestamp": 7.9}, {"track_id": 8, "class_name": "car", "latitude": 48.13438049507138, "longitude": 11.581627170065286, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7592472265167741, "timestamp": 7.9}]}
+{"frame": 80, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13449764573306, "longitude": 11.581976207079714, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8455372764271059, "timestamp": 8.0}, {"track_id": 8, "class_name": "car", "latitude": 48.1343817823915, "longitude": 11.581628457385404, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7490264227464647, "timestamp": 8.0}]}
+{"frame": 81, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13450146247128, "longitude": 11.58198002381793, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8995574387322959, "timestamp": 8.1}, {"track_id": 8, "class_name": "car", "latitude": 48.13438306971162, "longitude": 11.581629744705523, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7617049267398273, "timestamp": 8.1}]}
+{"frame": 82, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13450527920949, "longitude": 11.581983840556147, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9831080896418909, "timestamp": 8.200000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134384357031735, "longitude": 11.581631032025642, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8103585732265683, "timestamp": 8.200000000000001}]}
+{"frame": 83, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134509095947706, "longitude": 11.581987657294363, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8188541904592044, "timestamp": 8.3}, {"track_id": 8, "class_name": "car", "latitude": 48.13438564435185, "longitude": 11.581632319345761, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7224401077791542, "timestamp": 8.3}]}
+{"frame": 84, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13451291268592, "longitude": 11.581991474032579, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9425046990476309, "timestamp": 8.4}, {"track_id": 8, "class_name": "car", "latitude": 48.13438693167197, "longitude": 11.58163360666588, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7928451855593378, "timestamp": 8.4}]}
+{"frame": 85, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134516729424135, "longitude": 11.581995290770795, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7791421801643124, "timestamp": 8.5}, {"track_id": 8, "class_name": "car", "latitude": 48.134388218992086, "longitude": 11.581634893986, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9174774051368981, "timestamp": 8.5}]}
+{"frame": 86, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13452054616235, "longitude": 11.581999107509011, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8265909443141941, "timestamp": 8.6}, {"track_id": 8, "class_name": "car", "latitude": 48.1343895063122, "longitude": 11.581636181306118, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8095084029704285, "timestamp": 8.6}]}
+{"frame": 87, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134524362900564, "longitude": 11.582002924247227, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8132434539287295, "timestamp": 8.700000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13439079363232, "longitude": 11.581637468626237, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.844400630267484, "timestamp": 8.700000000000001}]}
+{"frame": 88, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13452817963878, "longitude": 11.582006740985443, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7348236929754304, "timestamp": 8.8}, {"track_id": 8, "class_name": "car", "latitude": 48.13439208095244, "longitude": 11.581638755946356, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8942854971555985, "timestamp": 8.8}]}
+{"frame": 89, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13453199637699, "longitude": 11.58201055772366, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.724699111658855, "timestamp": 8.9}, {"track_id": 8, "class_name": "car", "latitude": 48.134393368272555, "longitude": 11.581640043266475, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8874548090382822, "timestamp": 8.9}]}
+{"frame": 90, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13453581311521, "longitude": 11.582014374461876, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8868793125375849, "timestamp": 9.0}, {"track_id": 8, "class_name": "car", "latitude": 48.13439465559267, "longitude": 11.581641330586594, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.907552612231014, "timestamp": 9.0}]}
+{"frame": 91, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13453962985342, "longitude": 11.582018191200092, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8641280220799232, "timestamp": 9.1}, {"track_id": 8, "class_name": "car", "latitude": 48.13439594291279, "longitude": 11.581642617906713, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7898386871290489, "timestamp": 9.1}]}
+{"frame": 92, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134543446591636, "longitude": 11.582022007938308, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7033429718236646, "timestamp": 9.200000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134397230232906, "longitude": 11.581643905226832, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7802593209586064, "timestamp": 9.200000000000001}]}
+{"frame": 93, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13454726332985, "longitude": 11.582025824676524, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7044058531486727, "timestamp": 9.3}, {"track_id": 8, "class_name": "car", "latitude": 48.134398517553024, "longitude": 11.58164519254695, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.895837854508027, "timestamp": 9.3}]}
+{"frame": 94, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134551080068064, "longitude": 11.58202964141474, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8551215796214381, "timestamp": 9.4}, {"track_id": 8, "class_name": "car", "latitude": 48.13439980487314, "longitude": 11.58164647986707, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8970739217130932, "timestamp": 9.4}]}
+{"frame": 95, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13455489680628, "longitude": 11.582033458152956, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9032202117316532, "timestamp": 9.5}, {"track_id": 8, "class_name": "car", "latitude": 48.13440109219326, "longitude": 11.581647767187189, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.982478926517075, "timestamp": 9.5}]}
+{"frame": 96, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13455871354449, "longitude": 11.582037274891173, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8485078952692832, "timestamp": 9.600000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134402379513375, "longitude": 11.581649054507308, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7900791497927783, "timestamp": 9.600000000000001}]}
+{"frame": 97, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13456253028271, "longitude": 11.582041091629389, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7092347821183679, "timestamp": 9.700000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13440366683349, "longitude": 11.581650341827427, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9879730638688121, "timestamp": 9.700000000000001}]}
+{"frame": 98, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13456634702092, "longitude": 11.582044908367605, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8443182885838018, "timestamp": 9.8}, {"track_id": 8, "class_name": "car", "latitude": 48.13440495415361, "longitude": 11.581651629147546, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8107764400902475, "timestamp": 9.8}]}
+{"frame": 99, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134570163759136, "longitude": 11.582048725105821, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8086492044462261, "timestamp": 9.9}, {"track_id": 8, "class_name": "car", "latitude": 48.13440624147373, "longitude": 11.581652916467664, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8468713813136359, "timestamp": 9.9}]}
+{"frame": 100, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13457398049735, "longitude": 11.582052541844037, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8578695952967115, "timestamp": 10.0}, {"track_id": 8, "class_name": "car", "latitude": 48.134407528793844, "longitude": 11.581654203787783, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9851702874906769, "timestamp": 10.0}]}
+{"frame": 101, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134577797235565, "longitude": 11.582056358582253, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7911209437985298, "timestamp": 10.100000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13440881611396, "longitude": 11.581655491107902, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8821473357946675, "timestamp": 10.100000000000001}]}
+{"frame": 102, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13458161397378, "longitude": 11.58206017532047, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8537842125779301, "timestamp": 10.200000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13441010343408, "longitude": 11.581656778428021, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7826096270449207, "timestamp": 10.200000000000001}]}
+{"frame": 103, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134585430711994, "longitude": 11.582063992058686, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8276336818066059, "timestamp": 10.3}, {"track_id": 8, "class_name": "car", "latitude": 48.134411390754195, "longitude": 11.58165806574814, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9750109262045888, "timestamp": 10.3}]}
+{"frame": 104, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13458924745021, "longitude": 11.582067808796902, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.789872631944184, "timestamp": 10.4}, {"track_id": 8, "class_name": "car", "latitude": 48.13441267807431, "longitude": 11.58165935306826, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9435700157487859, "timestamp": 10.4}]}
+{"frame": 105, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13459306418842, "longitude": 11.582071625535118, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7760969546701931, "timestamp": 10.5}, {"track_id": 8, "class_name": "car", "latitude": 48.13441396539443, "longitude": 11.581660640388378, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8654309853587168, "timestamp": 10.5}]}
+{"frame": 106, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13459688092664, "longitude": 11.582075442273334, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9586936549077387, "timestamp": 10.600000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13441525271455, "longitude": 11.581661927708497, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8402225244847815, "timestamp": 10.600000000000001}]}
+{"frame": 107, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13460069766485, "longitude": 11.58207925901155, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8010184524166715, "timestamp": 10.700000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.134416540034664, "longitude": 11.581663215028616, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9105959942534316, "timestamp": 10.700000000000001}]}
+{"frame": 108, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134604514403065, "longitude": 11.582083075749766, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9185728476904729, "timestamp": 10.8}, {"track_id": 8, "class_name": "car", "latitude": 48.13441782735478, "longitude": 11.581664502348735, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7424237531153782, "timestamp": 10.8}]}
+{"frame": 109, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13460833114128, "longitude": 11.582086892487983, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8625304196947937, "timestamp": 10.9}, {"track_id": 8, "class_name": "car", "latitude": 48.1344191146749, "longitude": 11.581665789668854, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8517360449714516, "timestamp": 10.9}]}
+{"frame": 110, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134612147879494, "longitude": 11.582090709226199, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7608595539514507, "timestamp": 11.0}, {"track_id": 8, "class_name": "car", "latitude": 48.134420401995015, "longitude": 11.581667076988973, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9600706908398443, "timestamp": 11.0}]}
+{"frame": 111, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13461596461771, "longitude": 11.582094525964415, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8147634724924264, "timestamp": 11.100000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13442168931513, "longitude": 11.581668364309092, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9837041149767419, "timestamp": 11.100000000000001}]}
+{"frame": 112, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13461978135592, "longitude": 11.582098342702631, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9135260281393608, "timestamp": 11.200000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13442297663525, "longitude": 11.58166965162921, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7087405424608887, "timestamp": 11.200000000000001}]}
+{"frame": 113, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13462359809414, "longitude": 11.582102159440847, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.7832721839391138, "timestamp": 11.3}, {"track_id": 8, "class_name": "car", "latitude": 48.13442426395537, "longitude": 11.58167093894933, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7449484533280505, "timestamp": 11.3}]}
+{"frame": 114, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13462741483235, "longitude": 11.582105976179063, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9155550465356164, "timestamp": 11.4}, {"track_id": 8, "class_name": "car", "latitude": 48.134425551275484, "longitude": 11.581672226269449, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9599882524023894, "timestamp": 11.4}]}
+{"frame": 115, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.134631231570566, "longitude": 11.58210979291728, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.9791160756947517, "timestamp": 11.5}, {"track_id": 8, "class_name": "car", "latitude": 48.1344268385956, "longitude": 11.581673513589568, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8257381040148206, "timestamp": 11.5}]}
+{"frame": 116, "detections": [{"track_id": 6, "class_name": "car", "latitude": 48.13463504830878, "longitude": 11.582113609655496, "speed_mps": 3.81673821640689, "heading_deg": 191.43993460540887, "confidence": 0.8668626671182583, "timestamp": 11.600000000000001}, {"track_id": 8, "class_name": "car", "latitude": 48.13442812591572, "longitude": 11.581674800909687, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8616506354598579, "timestamp": 11.600000000000001}]}
+{"frame": 117, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134429413235836, "longitude": 11.581676088229806, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7646136878241566, "timestamp": 11.700000000000001}]}
+{"frame": 118, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443070055595, "longitude": 11.581677375549924, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8326785098531682, "timestamp": 11.8}]}
+{"frame": 119, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443198787607, "longitude": 11.581678662870043, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.738064446488917, "timestamp": 11.9}]}
+{"frame": 120, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443327519619, "longitude": 11.581679950190162, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9593838885331185, "timestamp": 12.0}]}
+{"frame": 121, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134434562516304, "longitude": 11.581681237510281, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9032980156862206, "timestamp": 12.100000000000001}]}
+{"frame": 122, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443584983642, "longitude": 11.5816825248304, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.72636253971773, "timestamp": 12.200000000000001}]}
+{"frame": 123, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443713715654, "longitude": 11.58168381215052, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9310989398022129, "timestamp": 12.3}]}
+{"frame": 124, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134438424476656, "longitude": 11.581685099470638, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8504278474457964, "timestamp": 12.4}]}
+{"frame": 125, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13443971179677, "longitude": 11.581686386790757, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7261678022066983, "timestamp": 12.5}]}
+{"frame": 126, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13444099911689, "longitude": 11.581687674110876, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8581046379758683, "timestamp": 12.600000000000001}]}
+{"frame": 127, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13444228643701, "longitude": 11.581688961430995, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7767123318898326, "timestamp": 12.700000000000001}]}
+{"frame": 128, "detections": []}
+{"frame": 129, "detections": []}
+{"frame": 130, "detections": []}
+{"frame": 131, "detections": []}
+{"frame": 132, "detections": []}
+{"frame": 133, "detections": []}
+{"frame": 134, "detections": []}
+{"frame": 135, "detections": []}
+{"frame": 136, "detections": []}
+{"frame": 137, "detections": []}
+{"frame": 138, "detections": []}
+{"frame": 139, "detections": []}
+{"frame": 140, "detections": []}
+{"frame": 141, "detections": []}
+{"frame": 142, "detections": []}
+{"frame": 143, "detections": []}
+{"frame": 144, "detections": []}
+{"frame": 145, "detections": []}
+{"frame": 146, "detections": []}
+{"frame": 147, "detections": []}
+{"frame": 148, "detections": []}
+{"frame": 149, "detections": []}
+{"frame": 150, "detections": []}
+{"frame": 151, "detections": []}
+{"frame": 152, "detections": []}
+{"frame": 153, "detections": []}
+{"frame": 154, "detections": []}
+{"frame": 155, "detections": []}
+{"frame": 156, "detections": []}
+{"frame": 157, "detections": []}
+{"frame": 158, "detections": []}
+{"frame": 159, "detections": []}
+{"frame": 160, "detections": []}
+{"frame": 161, "detections": []}
+{"frame": 162, "detections": []}
+{"frame": 163, "detections": []}
+{"frame": 164, "detections": []}
+{"frame": 165, "detections": []}
+{"frame": 166, "detections": []}
+{"frame": 167, "detections": []}
+{"frame": 168, "detections": []}
+{"frame": 169, "detections": []}
+{"frame": 170, "detections": []}
+{"frame": 171, "detections": []}
+{"frame": 172, "detections": []}
+{"frame": 173, "detections": []}
+{"frame": 174, "detections": []}
+{"frame": 175, "detections": []}
+{"frame": 176, "detections": []}
+{"frame": 177, "detections": []}
+{"frame": 178, "detections": []}
+{"frame": 179, "detections": []}
+{"frame": 180, "detections": []}
+{"frame": 181, "detections": []}
+{"frame": 182, "detections": []}
+{"frame": 183, "detections": []}
+{"frame": 184, "detections": []}
+{"frame": 185, "detections": []}
+{"frame": 186, "detections": []}
+{"frame": 187, "detections": []}
+{"frame": 188, "detections": []}
+{"frame": 189, "detections": []}
+{"frame": 190, "detections": []}
+{"frame": 191, "detections": []}
+{"frame": 192, "detections": []}
+{"frame": 193, "detections": []}
+{"frame": 194, "detections": []}
+{"frame": 195, "detections": []}
+{"frame": 196, "detections": []}
+{"frame": 197, "detections": []}
+{"frame": 198, "detections": []}
+{"frame": 199, "detections": []}
+{"frame": 200, "detections": []}
+{"frame": 201, "detections": []}
+{"frame": 202, "detections": []}
+{"frame": 203, "detections": []}
+{"frame": 204, "detections": []}
+{"frame": 205, "detections": []}
+{"frame": 206, "detections": []}
+{"frame": 207, "detections": []}
+{"frame": 208, "detections": []}
+{"frame": 209, "detections": []}
+{"frame": 210, "detections": []}
+{"frame": 211, "detections": []}
+{"frame": 212, "detections": []}
+{"frame": 213, "detections": []}
+{"frame": 214, "detections": []}
+{"frame": 215, "detections": []}
+{"frame": 216, "detections": []}
+{"frame": 217, "detections": []}
+{"frame": 218, "detections": []}
+{"frame": 219, "detections": []}
+{"frame": 220, "detections": []}
+{"frame": 221, "detections": []}
+{"frame": 222, "detections": []}
+{"frame": 223, "detections": []}
+{"frame": 224, "detections": []}
+{"frame": 225, "detections": []}
+{"frame": 226, "detections": []}
+{"frame": 227, "detections": []}
+{"frame": 228, "detections": []}
+{"frame": 229, "detections": []}
+{"frame": 230, "detections": []}
+{"frame": 231, "detections": []}
+{"frame": 232, "detections": []}
+{"frame": 233, "detections": []}
+{"frame": 234, "detections": []}
+{"frame": 235, "detections": []}
+{"frame": 236, "detections": []}
+{"frame": 237, "detections": []}
+{"frame": 238, "detections": []}
+{"frame": 239, "detections": []}
+{"frame": 240, "detections": []}
+{"frame": 241, "detections": []}
+{"frame": 242, "detections": []}
+{"frame": 243, "detections": []}
+{"frame": 244, "detections": []}
+{"frame": 245, "detections": []}
+{"frame": 246, "detections": []}
+{"frame": 247, "detections": []}
+{"frame": 248, "detections": []}
+{"frame": 249, "detections": []}
+{"frame": 250, "detections": []}
+{"frame": 251, "detections": []}
+{"frame": 252, "detections": []}
+{"frame": 253, "detections": []}
+{"frame": 254, "detections": []}
+{"frame": 255, "detections": []}
+{"frame": 256, "detections": []}
+{"frame": 257, "detections": []}
+{"frame": 258, "detections": []}
+{"frame": 259, "detections": []}
+{"frame": 260, "detections": []}
+{"frame": 261, "detections": []}
+{"frame": 262, "detections": []}
+{"frame": 263, "detections": []}
+{"frame": 264, "detections": []}
+{"frame": 265, "detections": []}
+{"frame": 266, "detections": []}
+{"frame": 267, "detections": []}
+{"frame": 268, "detections": []}
+{"frame": 269, "detections": []}
+{"frame": 270, "detections": []}
+{"frame": 271, "detections": []}
+{"frame": 272, "detections": []}
+{"frame": 273, "detections": []}
+{"frame": 274, "detections": []}
+{"frame": 275, "detections": []}
+{"frame": 276, "detections": []}
+{"frame": 277, "detections": []}
+{"frame": 278, "detections": []}
+{"frame": 279, "detections": []}
+{"frame": 280, "detections": []}
+{"frame": 281, "detections": []}
+{"frame": 282, "detections": []}
+{"frame": 283, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134643108375286, "longitude": 11.58188978336955, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8071325288582868, "timestamp": 28.3}]}
+{"frame": 284, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.1346443956954, "longitude": 11.58189107068967, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8235193157448829, "timestamp": 28.400000000000002}]}
+{"frame": 285, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13464568301552, "longitude": 11.581892358009789, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7961956576935887, "timestamp": 28.5}]}
+{"frame": 286, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13464697033564, "longitude": 11.581893645329908, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.835610461915611, "timestamp": 28.6}]}
+{"frame": 287, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134648257655755, "longitude": 11.581894932650027, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.770691689310274, "timestamp": 28.700000000000003}]}
+{"frame": 288, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13464954497587, "longitude": 11.581896219970146, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7931389355380468, "timestamp": 28.8}]}
+{"frame": 289, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465083229599, "longitude": 11.581897507290265, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8348128394876738, "timestamp": 28.900000000000002}]}
+{"frame": 290, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134652119616106, "longitude": 11.581898794610384, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7319701831536362, "timestamp": 29.0}]}
+{"frame": 291, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465340693622, "longitude": 11.581900081930502, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8983967442235696, "timestamp": 29.1}]}
+{"frame": 292, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465469425634, "longitude": 11.581901369250621, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8360450724646481, "timestamp": 29.200000000000003}]}
+{"frame": 293, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465598157646, "longitude": 11.58190265657074, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9576602049859201, "timestamp": 29.3}]}
+{"frame": 294, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134657268896575, "longitude": 11.58190394389086, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8882099243309367, "timestamp": 29.400000000000002}]}
+{"frame": 295, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465855621669, "longitude": 11.581905231210978, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7154732423287962, "timestamp": 29.5}]}
+{"frame": 296, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13465984353681, "longitude": 11.581906518531097, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.9156254253932795, "timestamp": 29.6}]}
+{"frame": 297, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13466113085693, "longitude": 11.581907805851216, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.7264800061652811, "timestamp": 29.700000000000003}]}
+{"frame": 298, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.134662418177044, "longitude": 11.581909093171335, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8762400587603549, "timestamp": 29.8}]}
+{"frame": 299, "detections": [{"track_id": 8, "class_name": "car", "latitude": 48.13466370549716, "longitude": 11.581910380491454, "speed_mps": 1.2873201188770529, "heading_deg": 113.80749201519495, "confidence": 0.8392099931373432, "timestamp": 29.900000000000002}]}

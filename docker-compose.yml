@@ -1,0 +1,26 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app/backend
+      - ./perception:/app/perception
+      - ./mission_planner:/app/mission_planner
+      - ./simulation:/app/simulation
+    environment:
+      - DEMO_MODE=true
+      - DATABASE_URL=sqlite+aiosqlite:///./recon_eye.db
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    restart: unless-stopped

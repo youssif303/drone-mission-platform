@@ -1,0 +1,7 @@
+{
+    "scenario_name": "urban_patrol",
+    "num_frames": 300,
+    "center_lat": 48.1351,
+    "center_lon": 11.582,
+    "num_objects": 8
+}
