@@ -26,9 +26,10 @@ export function useWebSocket<T>(urlPath: string, options: UseWebSocketOptions = 
     
     const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
     const isDev = Boolean((import.meta as any).env?.DEV);
-    const wsHost = (isDev && window.location.port === '3000')
-      ? `${window.location.hostname}:8000`
-      : window.location.host;
+    const customWs = (import.meta as any).env?.VITE_WS_HOST;
+    const wsHost = customWs 
+      ? customWs 
+      : ((isDev && window.location.port === '3000') ? `${window.location.hostname}:8000` : window.location.host);
     const url = `${protocol}//${wsHost}${urlPath}`;
 
     wsRef.current = new WebSocket(url);

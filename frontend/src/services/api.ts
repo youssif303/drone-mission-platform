@@ -2,7 +2,7 @@ import axios from 'axios';
 import { Mission, TrackedObject, TrackHistoryPoint, Alert, AlertRule, HealthStatus } from '../types';
 
 const api = axios.create({
-  baseURL: '/api'
+  baseURL: (import.meta as any).env?.VITE_API_URL || '/api'
 });
 
 export const getMissions = () => api.get<Mission[]>('/missions').then(res => res.data);
